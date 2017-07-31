@@ -130,7 +130,7 @@ Pull requests are welcome. Thank you. 💙
 <h1 align="center"> Journalling </h1>
 
 - [Day One](http://dayoneapp.com/)
-	- write journal entries with with multiple photographs and journals [end to end encrypted](http://help.dayoneapp.com/day-one-sync/end-to-end-encryption-faq) 
+	- write journal entries with multiple photographs and journals [end to end encrypted](http://help.dayoneapp.com/day-one-sync/end-to-end-encryption-faq) 
 
 <h1 align="center"> Games </h1>
 
