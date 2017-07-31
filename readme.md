@@ -1,4 +1,4 @@
-<h1 align="center"> Free and non free iOS all can use 📱</h1>
+<h1 align="center"> Free and non free iOS apps all can use 📱</h1>
 
 This is an extension to [Learn Anything Search Engine](https://learn-anything.xyz/) that lists all the interesting iOS apps one can use.
 
