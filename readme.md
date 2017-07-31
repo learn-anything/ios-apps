@@ -9,6 +9,9 @@
 	</a>
 </div>
 
+<h1 align="center"> Description 📕</h1>
+
+
 This is an extension to [Learn Anything Search Engine](https://learn-anything.xyz/) that lists all the interesting iOS apps one can use.
 
 Pull requests are welcome. Thank you. 💙
