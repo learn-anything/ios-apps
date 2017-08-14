@@ -77,7 +77,7 @@ Pull requests are welcome. Thank you. 💙
 <h1 align="center"> Communication </h1>
 
 - [Telegram](https://telegram.org)
-	- messenger with many features using its [own cryptography protocol](https://security.stackexchange.com/a/49802/44805)
+	- messenger with many features using its [own cryptography protocol](http://telegra.ph/Why-Isnt-Telegram-End-to-End-Encrypted-by-Default-08-14)
 - [Slack](https://itunes.apple.com/us/app/slack-business-communication-for-teams/id618783545?mt=8)
 	- team communication with ability to create public or private channels
 - [Airmail](http://airmailapp.com)
