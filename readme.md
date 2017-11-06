@@ -1,6 +1,6 @@
-# Interesting iOS apps all can use [![Lists](https://img.shields.io/badge/More%20Lists-🔖-blue.svg)](https://github.com/learn-anything/maps#explore-and-improve-our-curated-lists) [![Thanks](https://img.shields.io/badge/Say%20Thanks-💗-ff69b4.svg)](https://www.patreon.com/learnanything)
+# Interesting iOS apps [![Lists](https://img.shields.io/badge/More%20Lists-🔖-blue.svg)](https://github.com/learn-anything/maps#explore-and-improve-our-curated-lists) [![Thanks](https://img.shields.io/badge/Say%20Thanks-💗-ff69b4.svg)](https://www.patreon.com/learnanything)
 
-This is a curated list of all the interesting iOS apps one can use.
+This is a curated list of all the interesting iOS apps.
 
 Pull requests are welcome. Thank you. 💜
 
@@ -121,4 +121,5 @@ Pull requests are welcome. Thank you. 💜
 - [Lichess](https://itunes.apple.com/us/app/lichess-online-chess/id968371784?mt=8)
 	- open source chess game with online gameplay and challenges
 
-	 
+## Contribute 
+If you found an app that you really like or perhaps made, feel free to add it to this list. Just choose an appropriate category for it and add an appropriate description and make the [Pull Request](https://help.github.com/articles/about-pull-requests/).
