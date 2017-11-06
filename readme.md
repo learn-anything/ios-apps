@@ -122,4 +122,4 @@ Pull requests are welcome. Thank you. 💜
 	- open source chess game with online gameplay and challenges
 
 ## Contribute 
-If you found an app that you really like or perhaps made, feel free to add it to this list. Just choose an appropriate category for it and add an appropriate description and make the [Pull Request](https://help.github.com/articles/about-pull-requests/).
+If you found an app that you really like or have made, feel free to add it to this list. Just choose an appropriate category for it and add an appropriate description and make the [Pull Request](https://help.github.com/articles/about-pull-requests/).
