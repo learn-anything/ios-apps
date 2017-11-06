@@ -1,14 +1,12 @@
-# Free and non free iOS apps all can use 📱 [![Thanks](https://img.shields.io/badge/Say%20Thanks-💗-ff69b4.svg)](https://www.patreon.com/learnanything)
+# Interesting iOS apps all can use [![Lists](https://img.shields.io/badge/More%20Lists-🔖-blue.svg)](https://github.com/learn-anything/maps#explore-and-improve-our-curated-lists) [![Thanks](https://img.shields.io/badge/Say%20Thanks-💗-ff69b4.svg)](https://www.patreon.com/learnanything)
 
-## Description 📕
-Here is a curated list of all the interesting iOS apps one can use.
+This is a curated list of all the interesting iOS apps one can use.
 
-Pull requests are welcome. Thank you. 💙
+Pull requests are welcome. Thank you. 💜
 
-### Related websites / repositories 
-- [open source iOS apps](https://github.com/dkhamsing/open-source-ios-apps)
+## Related websites / repositories 
+- [Open Source iOS apps](https://github.com/dkhamsing/open-source-ios-apps)
 - [iOS setup](https://github.com/nikitavoloboev/my-ios)
-
 
 ## iOS apps
 ### Productivity
