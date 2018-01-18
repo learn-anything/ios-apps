@@ -1,17 +1,7 @@
 # Interesting iOS apps [![Lists](https://img.shields.io/badge/More%20Lists-🔖-blue.svg)](https://github.com/learn-anything/maps#explore-and-improve-our-curated-lists) [![Thanks](https://img.shields.io/badge/Say%20Thanks-💗-ff69b4.svg)](https://www.patreon.com/learnanything)
 
-This is a curated list of all the interesting iOS apps.
-
-Pull requests are welcome. Thank you. 💜
-
-## Related websites / repositories 
-- [Open Source iOS apps](https://github.com/dkhamsing/open-source-ios-apps)
-- [iOS setup](https://github.com/nikitavoloboev/my-ios)
-
-## iOS apps
-### Productivity
-- [2Do](https://www.2doapp.com)
-	- powerful and flexible GTD task manager
+## Productivity
+- [2Do](https://www.2doapp.com) - Powerful and flexible GTD task manager.
 - [launch center pro](https://contrast.co/launch-center-pro/)
 	- create easily accessible shortcuts to open apps, activate URL schemes and more
 - [Streaks](https://streaksapp.com)
@@ -121,5 +111,6 @@ Pull requests are welcome. Thank you. 💜
 - [Lichess](https://itunes.apple.com/us/app/lichess-online-chess/id968371784?mt=8)
 	- open source chess game with online gameplay and challenges
 
-## Contribute 
-If you found an app that you really like or have made, feel free to add it to this list. Just choose an appropriate category for it and add an appropriate description and make the [Pull Request](https://help.github.com/articles/about-pull-requests/).
+## Related
+- [Open Source iOS apps](https://github.com/dkhamsing/open-source-ios-apps)
+- [iOS setup](https://github.com/nikitavoloboev/my-ios)
