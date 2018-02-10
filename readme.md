@@ -1,4 +1,5 @@
 # Interesting iOS apps [![Lists](https://img.shields.io/badge/More%20Lists-🔖-blue.svg)](https://github.com/learn-anything/learn-anything/wiki/Curated-Lists) [![Thanks](https://img.shields.io/badge/Say%20Thanks-💗-ff69b4.svg)](https://www.patreon.com/learnanything)
+[Suggestions](../../issues/) and pull requests are highly encouraged! *Please read the [contribution guidelines](contributing.md#contribution-guidelines) before contributing.*
 
 ## Productivity
 - [2Do](https://www.2doapp.com) - Powerful and flexible GTD task manager.
@@ -41,7 +42,7 @@
 - [Instagram](https://itunes.apple.com/us/app/instagram/id389801252?mt=8) - Photo sharing social network owned by [Facebook](http://www.wikiwand.com/en/Facebook).
 - [VSCO](https://itunes.apple.com/us/app/vsco/id588013838?mt=8) - Powerful photo editing app and a photo sharing platform.
 - [Slidebox](http://slidebox.co/) - Quickly delete and organise photos on your phone.
-	
+
 - [Pixelmator](http://www.pixelmator.com/ios/) - Powerful image editor.
 
 ## Code
