@@ -72,8 +72,8 @@
 - [Lichess](https://itunes.apple.com/us/app/lichess-online-chess/id968371784?mt=8) - Open source chess game with online gameplay and challenges.
 
 ## Related
-- [Open Source iOS apps](https://github.com/dkhamsing/open-source-ios-apps)
-- [iOS setup](https://github.com/nikitavoloboev/my-ios)
+- [Open Source iOS apps](https://github.com/dkhamsing/open-source-ios-apps#readme)
+- [iOS setup](https://github.com/nikitavoloboev/my-ios#readme)
 
 ## Contributing
 See [contribution guidelines](contributing.md#contribution-guidelines).
