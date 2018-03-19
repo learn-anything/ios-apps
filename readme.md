@@ -18,6 +18,7 @@
 - [Workflow](https://workflow.is/) - Automate simple tasks via [URL schemes](https://developer.apple.com/library/content/documentation/iPhone/Conceptual/iPhoneOSProgrammingGuide/Inter-AppCommunication/Inter-AppCommunication.html).
 - [BTT remote](http://bttremote.com) - Remotely control your macOS (requires [BetterTouchTool](https://www.boastr.net/) installation).
 - [Soulver](http://www.acqualia.com/soulver/iphone/) - Notepad calculator for quick calculations.
+- [Taskade](https://itunes.apple.com/app/taskade-smart-lists-and-notes/id1264713923) - Smart task lists with real-time cross-platform syncing and team collaboration.
 
 ## Education
 - [V for Wiki](http://v-for-wiki.com/) - Read wikipedia with beautiful typography.
