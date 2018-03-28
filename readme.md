@@ -66,6 +66,9 @@
 - [Authy](https://itunes.apple.com/us/app/authy/id494168017?mt=8) - Convenient two-factor authentication.
 - [1Password](https://itunes.apple.com/us/app/1password-password-manager-and-secure-wallet/id568903335?mt=8) - Password manager keeping your passwords under one secure vault.
 
+## Developer
+- [Charles](https://itunes.apple.com/app/charles-proxy/id1134218562?mt=8)
+
 ## Journalling
 - [Day One](http://dayoneapp.com/) - Write journal entries with multiple photographs and journals [end to end encrypted](http://help.dayoneapp.com/day-one-sync/end-to-end-encryption-faq).
 
