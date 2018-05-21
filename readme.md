@@ -67,6 +67,7 @@
 
 ## Developer
 - [Charles](https://itunes.apple.com/app/charles-proxy/id1134218562?mt=8)
+- [GitHawk](http://githawk.com/) - Simplest way to read and respond to your GitHub notifications.
 
 ## Podcasts
 - [Overcast](https://overcast.fm/) - Podcast app with [smart speed](https://medium.com/@eped/overcasts-smart-speed-vs-real-time-a759549ab48b) and simple interface.
