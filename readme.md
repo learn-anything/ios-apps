@@ -9,7 +9,6 @@
 - [Week Cal](https://itunes.apple.com/us/app/week-calendar/id381059732?mt=8) - Set and stay on top of calendar events.
 - [PDF Expert](https://pdfexpert.com/) - Read and edit PDF files.
 - [Trello](https://itunes.apple.com/us/app/trello/id461504587?mt=8) - Keep track of things with a flexible [Kanban board](http://www.wikiwand.com/en/Kanban_board).
-- [Overcast](https://overcast.fm/) - Podcast app with [smart speed](https://medium.com/@eped/overcasts-smart-speed-vs-real-time-a759549ab48b) and simple interface.
 - [MindNode](https://mindnode.com/) - Visualise your thoughts and ideas with mind maps.
 - [Ulysses](https://www.ulyssesapp.com/) - Powerful and flexible writing app.
 - [Scanbot](https://itunes.apple.com/us/app/scanbot-scanner-app-fax/id834854351?mt=8) - Scan documents and QR codes.
@@ -68,6 +67,10 @@
 
 ## Developer
 - [Charles](https://itunes.apple.com/app/charles-proxy/id1134218562?mt=8)
+
+## Podcasts
+- [Overcast](https://overcast.fm/) - Podcast app with [smart speed](https://medium.com/@eped/overcasts-smart-speed-vs-real-time-a759549ab48b) and simple interface.
+- [Castro](http://supertop.co/castro/) - Track lots of podcasts at once without getting overwhelmed.
 
 ## Journalling
 - [Day One](http://dayoneapp.com/) - Write journal entries with multiple photographs and journals [end to end encrypted](http://help.dayoneapp.com/day-one-sync/end-to-end-encryption-faq).
