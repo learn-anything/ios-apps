@@ -45,6 +45,17 @@
 
 - [Pixelmator](http://www.pixelmator.com/ios/) - Powerful image editor.
 
+## Camera
+- [Camera-M](https://itunes.apple.com/us/app/camera-m/id1239098425?mt=8) - Professional camera app.
+
+## Files/File Manager
+- [File Manager](https://itunes.apple.com/us/app/file-manager-by-mousavian/id1017809685?mt=8) - Desktop-class file manager + combined with a simple music and video player
+
+## Media Player
+- [Infuse](https://itunes.apple.com/us/app/infuse-5/id1136220934?mt=8) - Beatiful video player
+
+- [VLC for Mobile](https://itunes.apple.com/us/app/vlc-for-mobile/id650377962?mt=8) - Open source video player
+
 ## Code
 - [GitPoint](https://github.com/gitpoint/git-point) - Open source GitHub client.
 - [Dash](https://kapeli.com/dash_ios) - Open source API documentation browser.
