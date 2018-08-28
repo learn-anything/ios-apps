@@ -54,7 +54,7 @@
 ## Media Player
 - [Infuse](https://itunes.apple.com/us/app/infuse-5/id1136220934?mt=8) - Beatiful video player
 
-- [VlC for Mobile](https://itunes.apple.com/us/app/vlc-for-mobile/id650377962?mt=8) - Open source video player
+- [VLC for Mobile](https://itunes.apple.com/us/app/vlc-for-mobile/id650377962?mt=8) - Open source video player
 
 ## Code
 - [GitPoint](https://github.com/gitpoint/git-point) - Open source GitHub client.
