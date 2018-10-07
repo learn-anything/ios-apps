@@ -45,11 +45,11 @@
 ## Education
 
 - [Anki](https://itunes.apple.com/us/app/ankimobile-flashcards/id373493387?mt=8) - Create flashcards to remember things using [spaced repetition learning](http://www.wikiwand.com/en/Spaced_repetition).
+- [iBooks](https://itunes.apple.com/nl/app/ibooks/id364709193?l=en&mt=8) - Native reader of ePub and PDF files for iOS.
 - [Khan Academy](https://itunes.apple.com/us/app/khan-academy-you-can-learn-anything/id469863705?mt=8) - Free educational videos and exercises.
 - [Terminology](http://agiletortoise.com/terminology/) - Quickly lookup unknown words using a dictionary.
 - [V for Wiki](http://v-for-wiki.com/) - Read wikipedia with beautiful typography.
 - [WolframAlpha](https://itunes.apple.com/us/app/wolframalpha/id334989259?mt=8) - Mathematical compute engine.
-- [iBooks](https://itunes.apple.com/nl/app/ibooks/id364709193?l=en&mt=8) - Native reader of ePub and PDF files for iOS.
 
 ## Finance
 
@@ -104,8 +104,8 @@
 
 ## Related
 
-- [Open Source iOS apps](https://github.com/dkhamsing/open-source-ios-apps#readme)
 - [iOS setup](https://github.com/nikitavoloboev/my-ios#readme)
+- [Open Source iOS apps](https://github.com/dkhamsing/open-source-ios-apps#readme)
 
 ## Security
 
