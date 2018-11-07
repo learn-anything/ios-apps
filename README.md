@@ -19,10 +19,10 @@
 - [Photography](#photography)
 - [Podcasts](#podcasts)
 - [Productivity](#productivity)
-- [Related](#related)
 - [Security](#security)
 - [Social](#social)
 - [Travelling](#travelling)
+- [Related](#related)
 
 ---
 
@@ -102,11 +102,6 @@
 - [Week Cal](https://itunes.apple.com/us/app/week-calendar/id381059732?mt=8) - Set and stay on top of calendar events.
 - [Workflow](https://workflow.is/) - Automate simple tasks via [URL schemes](https://developer.apple.com/library/content/documentation/iPhone/Conceptual/iPhoneOSProgrammingGuide/Inter-AppCommunication/Inter-AppCommunication.html).
 
-## Related
-
-- [iOS setup](https://github.com/nikitavoloboev/my-ios#readme)
-- [Open Source iOS apps](https://github.com/dkhamsing/open-source-ios-apps#readme)
-
 ## Security
 
 - [1Password](https://itunes.apple.com/us/app/1password-password-manager-and-secure-wallet/id568903335?mt=8) - Password manager keeping your passwords under one secure vault.
@@ -122,6 +117,11 @@
 ## Travelling
 
 - [CityMaps2Go](https://itunes.apple.com/us/app/citymaps2go-plan-trips-travel-guide-offline-maps/id408866084?mt=8) - Has downloadable offline maps for travelling with no connectivity.
+
+## Related
+
+- [iOS setup](https://github.com/nikitavoloboev/my-ios#readme)
+- [Open Source iOS apps](https://github.com/dkhamsing/open-source-ios-apps#readme)
 
 ---
 
