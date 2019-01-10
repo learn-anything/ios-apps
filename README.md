@@ -44,7 +44,7 @@
 
 ## Education
 
-- [Anki](https://itunes.apple.com/us/app/ankimobile-flashcards/id373493387?mt=8) - Create flashcards to remember things using [spaced repetition learning](http://www.wikiwand.com/en/Spaced_repetition).
+- [Anki](https://itunes.apple.com/us/app/ankimobile-flashcards/id373493387?mt=8) - Create flashcards to remember things using [spaced repetition learning](http://en.wikipedia.org/wiki/Spaced_repetition).
 - [iBooks](https://itunes.apple.com/nl/app/ibooks/id364709193?l=en&mt=8) - Native reader of ePub and PDF files for iOS.
 - [Khan Academy](https://itunes.apple.com/us/app/khan-academy-you-can-learn-anything/id469863705?mt=8) - Free educational videos and exercises.
 - [Terminology](http://agiletortoise.com/terminology/) - Quickly lookup unknown words using a dictionary.
@@ -73,7 +73,7 @@
 
 ## Photography
 
-- [Instagram](https://itunes.apple.com/us/app/instagram/id389801252?mt=8) - Photo sharing social network owned by [Facebook](http://www.wikiwand.com/en/Facebook).
+- [Instagram](https://itunes.apple.com/us/app/instagram/id389801252?mt=8) - Photo sharing social network owned by [Facebook](http://en.wikipedia.org/wiki/Facebook).
 - [Pixelmator](http://www.pixelmator.com/ios/) - Powerful image editor.
 - [Slidebox](http://slidebox.co/) - Quickly delete and organise photos on your phone.
 - [VSCO](https://itunes.apple.com/us/app/vsco/id588013838?mt=8) - Powerful photo editing app and a photo sharing platform.
@@ -97,7 +97,7 @@
 - [Soulver](http://www.acqualia.com/soulver/iphone/) - Notepad calculator for quick calculations.
 - [Streaks](https://streaksapp.com) - Mark and follow up on important habits.
 - [Taskade](https://itunes.apple.com/app/taskade-smart-lists-and-notes/id1264713923) - Smart task lists with real-time cross-platform syncing and team collaboration.
-- [Trello](https://itunes.apple.com/us/app/trello/id461504587?mt=8) - Keep track of things with a flexible [Kanban board](http://www.wikiwand.com/en/Kanban_board).
+- [Trello](https://itunes.apple.com/us/app/trello/id461504587?mt=8) - Keep track of things with a flexible [Kanban board](http://en.wikipedia.org/wiki/Kanban_board).
 - [Ulysses](https://www.ulyssesapp.com/) - Powerful and flexible writing app.
 - [Week Cal](https://itunes.apple.com/us/app/week-calendar/id381059732?mt=8) - Set and stay on top of calendar events.
 - [Workflow](https://workflow.is/) - Automate simple tasks via [URL schemes](https://developer.apple.com/library/content/documentation/iPhone/Conceptual/iPhoneOSProgrammingGuide/Inter-AppCommunication/Inter-AppCommunication.html).
