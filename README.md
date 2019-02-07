@@ -54,6 +54,7 @@
 ## Finance
 
 - [YNAB classic](https://itunes.apple.com/us/app/ynab-classic/id372076250?mt=8) - Free iOS client for [YNAB](https://www.youneedabudget.com/) app that lets you [be proactive](https://www.youneedabudget.com/method/) with your budgeting.
+- [WealthFront](https://www.wealthfront.com/) - Financial Planning & Robo-Investing for Millennials.
 
 ## Fitness
 
@@ -80,8 +81,10 @@
 
 ## Podcasts
 
+- [Breaker](https://www.breaker.audio/) - The social podcast app.
 - [Castro](http://supertop.co/castro/) - Track lots of podcasts at once without getting overwhelmed.
 - [Overcast](https://overcast.fm/) - Podcast app with [smart speed](https://medium.com/@eped/overcasts-smart-speed-vs-real-time-a759549ab48b) and simple interface.
+
 
 ## Productivity
 
@@ -90,8 +93,10 @@
 - [BTT remote](http://bttremote.com) - Remotely control your macOS (requires [BetterTouchTool](https://www.boastr.net/) installation).
 - [Calm](https://itunes.apple.com/us/app/calm-meditation-to-relax-focus-sleep-better/id571800810?mt=8) - Simple meditation app.
 - [Due](http://www.dueapp.com/) - Set quick reminders for things.
+- [Duet](https://www.duetdisplay.com/) - Ex-Apple Engineers turn your iPad into an extra display.
 - [Launch center pro](https://contrast.co/launch-center-pro/) - Create easily accessible shortcuts to open apps, activate URL schemes and more.
 - [MindNode](https://mindnode.com/) - Visualise your thoughts and ideas with mind maps.
+- [Notion](https://www.notion.so) - The all-in-one workspace - for notes, tasks, wikis, and databases.
 - [PDF Expert](https://pdfexpert.com/) - Read and edit PDF files.
 - [Scanbot](https://itunes.apple.com/us/app/scanbot-scanner-app-fax/id834854351?mt=8) - Scan documents and QR codes.
 - [Soulver](http://www.acqualia.com/soulver/iphone/) - Notepad calculator for quick calculations.
@@ -106,6 +111,7 @@
 
 - [1Password](https://itunes.apple.com/us/app/1password-password-manager-and-secure-wallet/id568903335?mt=8) - Password manager keeping your passwords under one secure vault.
 - [Authy](https://itunes.apple.com/us/app/authy/id494168017?mt=8) - Convenient two-factor authentication.
+
 
 ## Social
 
