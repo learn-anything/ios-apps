@@ -3,8 +3,6 @@
 [![Lists](https://img.shields.io/badge/-more%20lists-0a0a0a.svg?style=flat&colorA=0a0a0a)](https://github.com/learn-anything/curated-lists#readme)
 [![Contribute](https://img.shields.io/badge/-contribute-0a0a0a.svg?style=flat&colorA=0a0a0a)](CONTRIBUTING.md#readme)
 
----
-
 #### Contents
 
 - [Code](#code)
@@ -23,8 +21,6 @@
 - [Social](#social)
 - [Travelling](#travelling)
 - [Related](#related)
-
----
 
 ## Code
 
@@ -85,7 +81,6 @@
 - [Castro](http://supertop.co/castro/) - Track lots of podcasts at once without getting overwhelmed.
 - [Overcast](https://overcast.fm/) - Podcast app with [smart speed](https://medium.com/@eped/overcasts-smart-speed-vs-real-time-a759549ab48b) and simple interface.
 
-
 ## Productivity
 
 - [2Do](https://www.2doapp.com) - Powerful and flexible GTD task manager.
@@ -112,7 +107,6 @@
 - [1Password](https://itunes.apple.com/us/app/1password-password-manager-and-secure-wallet/id568903335?mt=8) - Password manager keeping your passwords under one secure vault.
 - [Authy](https://itunes.apple.com/us/app/authy/id494168017?mt=8) - Convenient two-factor authentication.
 
-
 ## Social
 
 - [LetterBoxd](https://itunes.apple.com/us/app/letterboxd-the-social-network-for-film-lovers/id1054271011?mt=8) - Social network for film lovers.
@@ -128,8 +122,6 @@
 
 - [iOS setup](https://github.com/nikitavoloboev/my-ios#readme)
 - [Open Source iOS apps](https://github.com/dkhamsing/open-source-ios-apps#readme)
-
----
 
 [![CC0](https://img.shields.io/badge/license-CC0-0a0a0a.svg?style=flat&colorA=0a0a0a)](https://creativecommons.org/publicdomain/zero/1.0/)
 [![Lists](https://img.shields.io/badge/-more%20lists-0a0a0a.svg?style=flat&colorA=0a0a0a)](https://github.com/learn-anything/curated-lists#readme)
