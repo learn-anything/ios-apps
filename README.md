@@ -100,6 +100,7 @@ _Please read [contribution guidelines](CONTRIBUTING.md#readme) before contributi
 - [Ulysses](https://www.ulyssesapp.com/) - Powerful and flexible writing app.
 - [Week Cal](https://itunes.apple.com/us/app/week-calendar/id381059732?mt=8) - Set and stay on top of calendar events.
 - [Workflow](https://workflow.is/) - Automate simple tasks via [URL schemes](https://developer.apple.com/library/content/documentation/iPhone/Conceptual/iPhoneOSProgrammingGuide/Inter-AppCommunication/Inter-AppCommunication.html).
+- [Timpler](https://timpler.com/) - Simple and powerful tasks and habits tracker app.
 
 ## Security
 
