@@ -28,14 +28,13 @@ _Please read [contribution guidelines](CONTRIBUTING.md#readme) before contributi
 
 ## Communication
 
-- [Airmail](http://airmailapp.com) - Minimal and powerful email client.
 - [Slack](https://itunes.apple.com/us/app/slack-business-communication-for-teams/id618783545?mt=8) - Team communication with ability to create public or private channels.
 - [Telegram](https://telegram.org) - Messenger with many features using its [own cryptography protocol](http://telegra.ph/Why-Isnt-Telegram-End-to-End-Encrypted-by-Default-08-14).
 
 ## Developer
 
 - [Charles](https://itunes.apple.com/app/charles-proxy/id1134218562?mt=8)
-- [a-Shell](https://holzschu.github.io/a-Shell_iOS/) - Text-based user interface for a screen-based platform.
+- [a-Shell](https://holzschu.github.io/a-Shell_iOS/) - Text-based user interface for a screen-based platform. ([HN](https://news.ycombinator.com/item?id=22989950))
 
 ## Education
 
