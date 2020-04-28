@@ -35,7 +35,7 @@ _Please read [contribution guidelines](CONTRIBUTING.md#readme) before contributi
 ## Developer
 
 - [Charles](https://itunes.apple.com/app/charles-proxy/id1134218562?mt=8)
-- [GitHawk](http://githawk.com/) - Simplest way to read and respond to your GitHub notifications.
+- [a-Shell](https://holzschu.github.io/a-Shell_iOS/) - Text-based user interface for a screen-based platform.
 
 ## Education
 
